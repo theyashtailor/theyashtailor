@@ -76,8 +76,7 @@
 
 <h2 align="center">What I'm Currently Working On 💻</h2>
 <ul>
-  <li><strong>Capstone Project:</strong> Leading a team sponsored by <em>Mind Your Plastic</em> to solve real-world problems related to plastic waste, automating analysis to provide insights using Python and SQL.</li>
-  <li><strong>Credit Card Approval Prediction:</strong> Analyzing credit card approval predictions using data mining techniques.</li>
+  <li><strong>Open-Source Health Monitoring System:</strong> Designed to simulate, process, and analyze health data from wearable devices like heart rate monitors and step counters </li>
 </ul>
 
 ---
